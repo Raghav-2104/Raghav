@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm currently a second-year student at the University of Mumbai, pursuing B.E in Information Technology.I'm found of learning new tech-stacks.<br>🔭 I’m currently working on a Food ordering app<br>🌱 I’m currently learning Flutter and DSA in C++ <br>
+💬 I'm currently a second-year student at the University of Mumbai, pursuing B.E in Information Technology.I'm found of learning new tech-stacks.<br>🔭 I’m currently working on a making different types of apps on flutter<br>🌱 I’m currently learning Flutter and DSA in C++ <br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=raghav_mundhara)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
