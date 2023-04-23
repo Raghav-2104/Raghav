@@ -11,9 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Raghav-2104&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raghav-2104&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghav-2104&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<!-- 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=raghav_mundhara)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=raghav_mundhara)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
