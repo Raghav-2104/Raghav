@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I'm currently a second-year student at the University of Mumbai, pursuing B.E in Information Technology.I'm found of learning new tech-stacks.<br>🔭 I’m currently working on a building different types of apps on flutter<br>🌱 I’m currently learning Flutter and DSA in C++ <br>
+💬 I'm currently a third-year student at the University of Mumbai, pursuing B.E in Information Technology.I'm found of learning new tech-stacks.<br>🔭 I’m currently working on a building different types of apps on flutter<br>🌱 I’m currently learning Flutter and DSA in C++ <br>
 
 
 ## 🌐 Socials:
